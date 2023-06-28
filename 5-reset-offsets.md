@@ -1,5 +1,7 @@
 # Replace "kafka-consumer-groups" by "kafka-consumer-groups.sh" or "kafka-consumer-groups.bat" based on your system # (or bin/kafka-consumer-groups.sh or bin\windows\kafka-consumer-groups.bat if you didn't setup PATH / Environment variables)
 
+```console
+
 # look at the documentation again
 kafka-consumer-groups
 
@@ -29,3 +31,4 @@ kafka-consumer-groups.sh --bootstrap-server localhost:9092 --group my-first-appl
 
 # consume again
 kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic first_topic --group my-first-application
+```

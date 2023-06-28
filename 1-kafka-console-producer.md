@@ -1,5 +1,4 @@
-# Replace "kafka-console-producer.sh" 
-# by "kafka-console-producer" or "kafka-console-producer.bat" based on your system # (or bin/kafka-console-producer.sh or bin\windows\kafka-console-producer.bat if you didn't setup PATH / Environment variables)
+# Replace "kafka-console-producer.sh" by "kafka-console-producer" or "kafka-console-producer.bat" based on your system # (or bin/kafka-console-producer.sh or bin\windows\kafka-console-producer.bat if you didn't setup PATH / Environment variables)
 
 kafka-console-producer.sh 
 

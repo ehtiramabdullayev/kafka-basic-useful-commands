@@ -1,5 +1,4 @@
-# Replace "kafka-consumer-groups" 
-# by "kafka-consumer-groups.sh" or "kafka-consumer-groups.bat" based on your system # (or bin/kafka-consumer-groups.sh or bin\windows\kafka-consumer-groups.bat if you didn't setup PATH / Environment variables)
+# Replace "kafka-consumer-groups" by "kafka-consumer-groups.sh" or "kafka-consumer-groups.bat" based on your system # (or bin/kafka-consumer-groups.sh or bin\windows\kafka-consumer-groups.bat if you didn't setup PATH / Environment variables)
 
 # look at the documentation again
 kafka-consumer-groups

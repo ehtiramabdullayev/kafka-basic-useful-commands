@@ -1,7 +1,7 @@
 #################################
 #### DOWNLOAD KAFKA BINARIES ####
 #################################
-
+```
 # Install Brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
@@ -22,3 +22,4 @@ kafka-topics
 
 # Start Kafka
 /usr/local/bin/kafka-server-start /usr/local/etc/kafka/server.properties
+```

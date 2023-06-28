@@ -1,3 +1,4 @@
+```
 # See here: https://conduktor.io/kafka/how-to-install-apache-kafka-on-windows
 
 # WSL2 is Windows Subsystem for Linux 2 and provides a Linux environment for your Windows computer that does not require a virtual machine
@@ -54,3 +55,4 @@ nano ~/.bashrc
 # Open a new terminal
 # Try running the command from any directory:
 kafka-topics.sh
+```

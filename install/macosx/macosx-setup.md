@@ -1,7 +1,7 @@
 #################################
 #### DOWNLOAD KAFKA BINARIES ####
 #################################
-
+```
 # Install Java JDK 11 (Amazon Corretto 11)
 # https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
 # Link: https://corretto.aws/downloads/latest/amazon-corretto-11-x64-macos-jdk.pkg
@@ -35,3 +35,4 @@ nano ~/.bash_profile
 # Open a new terminal
 # Try running the command from any directory:
 kafka-topics.sh
+```

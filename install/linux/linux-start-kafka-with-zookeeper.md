@@ -4,7 +4,7 @@
 ##                            ##
 ################################
 
-
+```
 # make a zookeeper data directory
 mkdir data
 mkdir data/zookeeper
@@ -33,3 +33,4 @@ kafka-server-start.sh ~/kafka_2.13-3.1.0/config/server.properties
 
 # Kafka is running! 
 # Keep the two terminal windows opened
+```

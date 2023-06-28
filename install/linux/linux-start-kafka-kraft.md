@@ -4,7 +4,7 @@
 ##                            ##
 ################################
 
-
+```
 # create Kafka data directory
 mkdir data/kafka-kraft
 
@@ -29,3 +29,4 @@ kafka-server-start.sh ~/kafka_2.13-3.1.0/config/kraft/server.properties
 
 # Kafka is running! 
 # Keep the terminal window opened
+```
